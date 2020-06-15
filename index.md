@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## 소나 봇 - 한글 디스코드 LOL 봇
 
-You can use the [editor on GitHub](https://github.com/FictionDeveloper/sona/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+디스코드(Discord)에서 작동하는 리그 오브 레전드 봇입니다.
+한국 롤&디스코드 사용자들에게 최적화된 봇을 제작하고자 만들어봤습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 한국 서버와 한국어만 지원합니다.
+- 깔끔하고 직관적인 UI를 제공합니다.
 
-### Markdown
+### 기능
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 로테이션
+2. 서버 상태
+3. 소환사 정보
+4. 소환사 전적
+5. 소환사 관전
+6. 내전 팀 짜기
 
-```markdown
-Syntax highlighted code block
+자세한 내용은 [블로그](https://blog.naver.com/golddesk_312/221717091315)에서 볼 수 있습니다.
 
-# Header 1
-## Header 2
-### Header 3
+### 사용법
 
-- Bulleted
-- List
+1. 언급
+2. 키워드
+3. 대상
 
-1. Numbered
-2. List
+자세한 내용은 [블로그](https://blog.naver.com/golddesk_312/221717091315)에서 볼 수 있습니다.
 
-**Bold** and _Italic_ and `Code` text
+### 링크
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FictionDeveloper/sona/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[소나 봇 초대하기](https://discordapp.com/oauth2/authorize?client_id=416089394554994699&scope=bot&permissions=37013568)
+[소나 봇 문의하기](https://discord.gg/kenAfYF)
