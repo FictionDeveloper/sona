@@ -28,4 +28,5 @@
 ### 링크
 
 [소나 봇 초대하기](https://discordapp.com/oauth2/authorize?client_id=416089394554994699&scope=bot&permissions=37013568)
+
 [소나 봇 문의하기](https://discord.gg/kenAfYF)
