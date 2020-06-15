@@ -1,6 +1,7 @@
 ## 소나 봇 - 한글 디스코드 LOL 봇
 
 디스코드(Discord)에서 작동하는 리그 오브 레전드 봇입니다.
+
 한국 롤&디스코드 사용자들에게 최적화된 봇을 제작하고자 만들어봤습니다.
 
 - 한국 서버와 한국어만 지원합니다.
@@ -28,4 +29,5 @@
 ### 링크
 
 [소나 봇 초대하기](https://discordapp.com/oauth2/authorize?client_id=416089394554994699&scope=bot&permissions=37013568)
+
 [소나 봇 문의하기](https://discord.gg/kenAfYF)
